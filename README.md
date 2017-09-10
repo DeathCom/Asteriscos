@@ -1,0 +1,2 @@
+# Asteriscos
+Practica de Asteriscos.
